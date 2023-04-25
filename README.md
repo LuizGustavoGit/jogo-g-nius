@@ -1,2 +1,2 @@
-"# jogo-g-nius" 
-"# jogo-g-nius" 
+"# jogo-genius" 
+"# jogo-genius" 
